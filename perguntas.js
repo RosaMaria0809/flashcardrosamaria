@@ -12,12 +12,12 @@ criaCartao(
 
 criaCartao(
     'curiosidade sobre camarões',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Os camarões te, o coração na cabeça',
+    'Sim, o coração do camarão fica na cabeça, mais precisamente no tórax, mas essa parte é fundida á cabeça'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Curiosidade sobre as salamandras ',
+    'Você sabia que elas conseguem se regenerar ',
+    'As salamandras conseguem regenerar partes do seu corpo, como pernas, caudas e até partes do coração e do cérebro. '
 )
